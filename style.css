@@ -1,0 +1,82 @@
+head {
+  font-family: "Nanum Pen Script", cursive;
+  color: black;
+}
+
+#header {
+  margin-top: 10px;
+  font-size: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.Gmail {
+  margin-right: 11px;
+}
+.Gmail:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+.Image {
+  margin-right: 11px;
+}
+.Gmail:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+.Menu {
+  width: 25px;
+  height: 25px;
+
+  margin-right: 5px;
+}
+
+.Account {
+  width: 55px;
+  height: 45px;
+  padding-top: 5px;
+
+  margin-right: 11px;
+}
+#Logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.Logo {
+  width: 272px;
+  height: 92px;
+  padding-top: 107px;
+}
+#Searchbox {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+
+  box-sizing: border-box;
+  border-style: solid;
+  border-width: 1px;
+  border-color: grey;
+  background-color: white;
+  border-radius: 40px / 40px;
+
+  width: 500px;
+  height: 50px;
+  margin: 20px auto;
+}
+.Microphone {
+  height: 25px;
+  margin-right: 20px;
+}
+.Search-glass {
+  width: 25px;
+
+  fill: grey;
+  margin-right: 360px;
+}
+
+.Key-board {
+  width: 25px;
+  margin-right: 20px;
+}
