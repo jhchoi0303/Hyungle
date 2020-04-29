@@ -17,13 +17,15 @@ head {
 .Gmail:hover {
   text-decoration: underline;
   cursor: pointer;
+  color: grey;
 }
 .Image {
   margin-right: 11px;
 }
-.Gmail:hover {
+.Image:hover {
   text-decoration: underline;
   cursor: pointer;
+  color: grey;
 }
 .Menu {
   width: 25px;
